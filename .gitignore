@@ -1,0 +1,7 @@
+XTSavePhotosAlbumUtils.xcodeproj/xcuserdata/
+XTSavePhotosAlbumUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTSavePhotosAlbumUtils.xcodeproj/project.xcworkspace/xcuserdata/
